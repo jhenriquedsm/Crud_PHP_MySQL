@@ -1,0 +1,37 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(36,6,66,1) 48%, rgba(31,9,54,1) 100%);
+}
+
+label{
+    color: #FFF;
+}
+
+.nav-link{
+    color: #FFF;
+}
+
+p{
+    color: #FFF;
+}
+
+.table{
+    color: #FFF;
+}
+
+td{
+    color: #FFF;
+}
+
+.table-striped>tbody>tr:nth-of-type(odd)>* {
+    color: #FFF;
+}
+
+.row{
+    margin-top: 10%;
+}
+
+.fa-house-user{
+    font-size: 30px;
+}
+
